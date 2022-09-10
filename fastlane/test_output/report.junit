@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='UnitTestExampleUITests.xctest' tests='9' failures='0'>
+  <testsuite name='UnitTestExampleTests.UnitTestExampleTests' tests='3' failures='0'>
+    <testcase classname='UnitTestExampleTests.UnitTestExampleTests' name='testLogin' time='0.004'/>
+    <testcase classname='UnitTestExampleTests.UnitTestExampleTests' name='testRegisterUser' time='0.002'/>
+    <testcase classname='UnitTestExampleTests.UnitTestExampleTests' name='testValidUser' time='0.001'/>
+  </testsuite>
+  <testsuite name='UnitTestExampleUITests.UnitTestExampleUITests' tests='2' failures='0'>
+    <testcase classname='UnitTestExampleUITests.UnitTestExampleUITests' name='testExample' time='3.962'/>
+    <testcase classname='UnitTestExampleUITests.UnitTestExampleUITests' name='testLaunchPerformance' time='89.695'/>
+  </testsuite>
+  <testsuite name='UnitTestExampleUITests.UnitTestExampleUITestsLaunchTests' tests='4' failures='0'>
+    <testcase classname='UnitTestExampleUITests.UnitTestExampleUITestsLaunchTests' name='testLaunch' time='5.545'/>
+    <testcase classname='UnitTestExampleUITests.UnitTestExampleUITestsLaunchTests' name='testLaunch' time='7.233'/>
+    <testcase classname='UnitTestExampleUITests.UnitTestExampleUITestsLaunchTests' name='testLaunch' time='5.401'/>
+    <testcase classname='UnitTestExampleUITests.UnitTestExampleUITestsLaunchTests' name='testLaunch' time='7.546'/>
+  </testsuite>
+</testsuites>
