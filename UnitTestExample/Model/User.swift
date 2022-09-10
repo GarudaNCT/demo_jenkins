@@ -43,7 +43,7 @@ class User {
             let userDefault = UserDefaults.standard
             let userName = userDefault.string(forKey: "username")
             let password = userDefault.string(forKey: "password")
-            if self.userName == userName && password == password {
+            if self.userName == userName && self.password == password {
                 return true
             } else {
                 return false
