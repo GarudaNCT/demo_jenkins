@@ -35,7 +35,7 @@ class UnitTestExampleTests: XCTestCase {
     }
     
     func testLogin() throws {
-        let newUser = User.init(userName: "test", password: "123123")
+        let newUser = User.init(userName: "test", password: "1231234")
         let resultLogin = newUser.login()
         XCTAssertEqual(resultLogin, true, "can not login")
     }
